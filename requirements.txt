@@ -1,9 +1,3 @@
-Flask[async]
-requests
-gunicorn
-pillow
-aiohttp
-googleapis-common-protos
-pycryptodome
-protobuf
-Werkzeug
+Flask==2.3.2
+requests==2.31.0
+gunicorn==21.2.0
